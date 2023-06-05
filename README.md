@@ -32,6 +32,7 @@
 
 ### [Part 11](https://github.com/daywatch/Python/blob/main/P11_ChineseNLP.ipynb):
 - Toolkits in Chinese NLP
-<br />
 
-> **Note:**  Future topics will include audio classification, NER tagging (DL), NLP metrics (annotation & modeling), Levenshtein distance, hierarchical clustering, grammar correction (packages like Grammarly GECtor), knowledge graph parsing, and question answering, and so on
+### [Text Summarizer dev]
+- More dev work on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
+<br />

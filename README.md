@@ -33,6 +33,10 @@
 ### [Part 11](https://github.com/daywatch/Python/blob/main/P11_ChineseNLP.ipynb):
 - Toolkits in Chinese NLP
 
-### [Text Summarizer dev]
+### [Part 12 Text Summarizer dev]
 - More dev work on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
+
+### [Part 13](https://github.com/daywatch/Python/blob/main/P13_tensorflow_speech_recognition_CNN_biGRU.ipynb)
+Speech recognition with tensorflow using CNN and bi-GRU
+
 <br />

@@ -1,7 +1,7 @@
 ## NLP & machine learning with Python
 
 ### [Part 1](https://github.com/daywatch/Python/blob/main/P1_NLP_showcase.ipynb):
-- N-grams, POS tagging, lemmatizer, data cleaning with both regular expression and stopwords, TF-IDF vectors, and Sentiment analysis
+- NLP basics: N-grams, POS tagging, lemmatizer, data cleaning with both regular expression and stopwords, TF-IDF vectors, and Sentiment analysis
 
 ### [Part 2](https://github.com/daywatch/Python/blob/main/P2_NLP_showcase.ipynb): 
 - Name entity recognition, clustering models (e.g., K-means, LDA, and BERT) and visualizations, keyword extraction, and sentence similarity search
@@ -39,7 +39,11 @@
 ### [Part 13](https://github.com/daywatch/Python/blob/main/P13_tensorflow_speech_recognition_CNN_biGRU.ipynb)
 Speech recognition with tensorflow using CNN and bi-GRU
 
-### Also: [Text Summarizer dev]
+### Also: 
+[**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
+- includes my coding and learning on how to use, fine-tune, and apply CV models such as image classification and facial recognition
+
+[Text Summarizer dev]
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
 <br />

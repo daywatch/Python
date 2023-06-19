@@ -1,7 +1,7 @@
 ## NLP & machine learning with Python
 
 ### [Part 1](https://github.com/daywatch/Python/blob/main/P1_NLP_showcase.ipynb):
-- N-grams, POS tagging, lemmatizer, data cleaning with both regular expression and stopwords, TF-IDF vectors, and Sentiment analysis
+- NLP basics: N-grams, POS tagging, lemmatizer, data cleaning with both regular expression and stopwords, TF-IDF vectors, and Sentiment analysis
 
 ### [Part 2](https://github.com/daywatch/Python/blob/main/P2_NLP_showcase.ipynb): 
 - Name entity recognition, clustering models (e.g., K-means, LDA, and BERT) and visualizations, keyword extraction, and sentence similarity search
@@ -13,7 +13,7 @@
 - bi-LSTM classification with keras (my dissertation code)
 
 ### [Part 5](https://github.com/daywatch/Python/blob/main/P5_openNMTpy_transformer.txt):
-- Grammar correction in OpenNMT-py (used for NLPCC GEC shared task)
+- Grammar correction in OpenNMT-py (submitted for NLPCC GEC shared task)
 
 ### [Part 6](https://github.com/daywatch/Python/blob/main/P6_pytorch_transformerpy.py):
 - Text Summarization with Encoder-decoder Transformer in Pytorch
@@ -34,7 +34,7 @@
 - Toolkits in Chinese NLP
 
 ### [Part 12](https://github.com/daywatch/Python/blob/main/P12_speechgraph_class_and_unit_tests_.py)
-- Speech graph function (following team product standard and unit testing procedure)
+- Speech graph functions (following team product standard and unit testing procedure)
 
 ### [Part 13](https://github.com/daywatch/Python/blob/main/P13_tensorflow_speech_recognition_CNN_biGRU.ipynb)
 Speech recognition with tensorflow using CNN and bi-GRU

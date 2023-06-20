@@ -39,6 +39,9 @@
 ### [Part 13](https://github.com/daywatch/Python/blob/main/P13_tensorflow_speech_recognition_CNN_biGRU.ipynb)
 Speech recognition with tensorflow using CNN and bi-GRU
 
+###[Part 14] ()
+XGBoost classification and tuning
+
 ### Also: 
 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
 - includes my coding and learning on how to use, fine-tune, and apply CV models such as image classification and facial recognition

@@ -42,11 +42,17 @@
 ### [Part 14](https://github.com/daywatch/Python/blob/main/P14_XGBoost_and_autotuning.ipynb)
 - XGBoost classification and tuning
 
+### [Part 15](https://github.com/daywatch/Python/tree/main/P15_applied_recommendor_system)
+- Some basic recommendation systems, including tfidf-embedding & MF/SVD
+
 ### Also: 
 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
 - includes my coding and learning on how to use, fine-tune, and apply CV models such as image classification and facial recognition
 
 [Text Summarizer dev]
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
+
+[Pandas practice]
+- Some of my learning codes on using pandas
 
 <br />

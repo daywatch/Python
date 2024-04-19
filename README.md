@@ -55,4 +55,7 @@
 [Pandas practice]
 - Some of my learning codes on using pandas
 
+[Object-oriented programming]
+- notes and miniproject on topics of OOPs
+
 <br />

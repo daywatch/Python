@@ -53,7 +53,7 @@
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
 [Pandas practice]
-- Some of my learning codes on using pandas
+- My notebooks on pandas and PySpark
 
 [Object-oriented programming]
 - notes and miniproject on topics of OOPs

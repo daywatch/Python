@@ -56,6 +56,6 @@
 - My notebooks on pandas and PySpark
 
 [Object-oriented programming]
-- notes and miniproject on topics of OOPs
+- notes and miniproject on topics of OOPs (still undergoing)
 
 <br />

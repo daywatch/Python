@@ -55,13 +55,13 @@
 
 ## Other Python skills
 
-###[Pandas practice]
+### Pandas practice
 - My notebooks on pandas and PySpark
 
-###[Object-oriented programming]
+### Object-oriented programming 
 - notes and miniproject on topics of OOPs (still updating): class, dunders, inheritance
 
-###[Streamlit]
+### Streamlit
 - put simple NLP code onto streamlit UI
 
 <br />

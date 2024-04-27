@@ -56,6 +56,6 @@
 - My notebooks on pandas and PySpark
 
 [Object-oriented programming]
-- notes and miniproject on topics of OOPs (still undergoing)
+- notes and miniproject on topics of OOPs (still updating): class, dunders, inheritance
 
 <br />

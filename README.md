@@ -43,19 +43,25 @@
 - XGBoost classification and tuning
 
 ### [Part 15](https://github.com/daywatch/Python/tree/main/P15_applied_recommendor_system)
-- Some basic recommendation systems, including tfidf-embedding & MF/SVD
+- Some basic recommendation systems, including tfidf-embedding & MF/SVD (under construction)
 
-### Also: 
-[**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
+### Part 16 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
 - includes my coding and learning on how to use, fine-tune, and apply CV models such as image classification and facial recognition
 
-[Text Summarizer dev]
+### Part 17 [Text Summarizer dev](https://github.com/daywatch/Python/tree/main/text_summarizer_dev)
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
-[Pandas practice]
+<br>
+
+## Other Python skills
+
+###[Pandas practice]
 - My notebooks on pandas and PySpark
 
-[Object-oriented programming]
+###[Object-oriented programming]
 - notes and miniproject on topics of OOPs (still updating): class, dunders, inheritance
+
+###[Streamlit]
+- put simple NLP code onto streamlit UI
 
 <br />

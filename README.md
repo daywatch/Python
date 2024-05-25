@@ -55,6 +55,9 @@
 
 ## Other Python skills
 
+### Python DSA practice (leetcode)
+- Practice on DSA coding challenges
+
 ### Pandas practice
 - My notebooks on pandas and PySpark
 

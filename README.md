@@ -55,16 +55,16 @@
 
 ## Other Python skills
 
-### Python DSA practice (leetcode)
+### [Python data structure and algorithm practice (leetcode)](https://github.com/daywatch/Python/tree/main/leetcode_problems_practice)
 - Practice on DSA coding challenges
 
-### Pandas practice
+### [Pandas practice](https://github.com/daywatch/Python/tree/main/pandas)
 - My notebooks on pandas and PySpark
 
-### Object-oriented programming 
+### [Object-oriented programming](https://github.com/daywatch/Python/tree/main/object_oriented_programming)
 - notes and miniproject on topics of OOPs (still updating): class, dunders, inheritance
 
-### Streamlit
+### [Streamlit](https://github.com/daywatch/Python/tree/main/streamlit)
 - put simple NLP code onto streamlit UI
 
 <br />

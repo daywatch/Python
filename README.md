@@ -45,7 +45,7 @@
 ### [Part 15](https://github.com/daywatch/Python/tree/main/P15_applied_recommendor_system)
 - Some basic recommendation systems, including tfidf-embedding & MF/SVD (under construction)
 
-### [Part 16](https://github.com/daywatch/Python/tree/main/P16_knowledge_graph_analyses)
+### [Part 16](https://github.com/daywatch/Python/blob/main/P16_knowledge_graph_analyses.ipynb)
 - Use a local Neo4j data for queries and exploratory graph analyses like centrality, community, and similarity
 
 ### Part 17 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
@@ -58,7 +58,7 @@
 
 ## Other Python skills
 
-### [Python data structure and algorithm practice (leetcode)](https://github.com/daywatch/Python/tree/main/leetcode_problems_practice)
+### [Python data structure and algorithm practice (leetcode and similar)](https://github.com/daywatch/Python/tree/main/leetcode_problems_practice)
 - Practice on DSA coding challenges
 
 ### [Pandas practice](https://github.com/daywatch/Python/tree/main/pandas)

@@ -45,10 +45,13 @@
 ### [Part 15](https://github.com/daywatch/Python/tree/main/P15_applied_recommendor_system)
 - Some basic recommendation systems, including tfidf-embedding & MF/SVD (under construction)
 
-### Part 16 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
+### [Part 16](https://github.com/daywatch/Python/tree/main/P16_knowledge_graph_analyses)
+- Use a local Neo4j data for queries and exploratory graph analyses like centrality, community, and similarity
+
+### Part 17 [**Computer Vision**](https://github.com/daywatch/Python/tree/main/computer_vision)
 - includes my coding and learning on how to use, fine-tune, and apply CV models such as image classification and facial recognition
 
-### Part 17 [Text Summarizer dev](https://github.com/daywatch/Python/tree/main/text_summarizer_dev)
+### Part 18 [Text Summarizer dev](https://github.com/daywatch/Python/tree/main/text_summarizer_dev)
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
 <br>

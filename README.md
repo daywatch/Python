@@ -67,6 +67,9 @@
 ### [Object-oriented programming](https://github.com/daywatch/Python/tree/main/object_oriented_programming)
 - notes and miniproject on topics of OOPs (still updating): class, dunders, inheritance
 
+### [Web scraping](https://github.com/daywatch/Python/tree/main/web_scraping)
+- my code on using playright and asyncio to scrap job posts at a large scale
+
 ### [Streamlit](https://github.com/daywatch/Python/tree/main/streamlit)
 - put simple NLP code onto streamlit UI
 

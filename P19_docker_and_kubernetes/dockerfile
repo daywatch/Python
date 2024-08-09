@@ -1,0 +1,19 @@
+
+# Use the Hugging Face PyTorch image with GPU support as the base image
+FROM huggingface/transformers-pytorch-gpu
+
+# Install additional dependencies (FastAPI, Uvicorn)
+RUN pip install fastapi uvicorn python-multipart
+
+# Copy your local application files into the container
+COPY . /docker_kube
+
+# Set the working directory inside the container
+WORKDIR /docker_kube
+
+# Expose the port on which your FastAPI app will run
+EXPOSE 8080
+
+# Command to run to serve a hugging face model
+# ENTRYPOINT ["transformers-cli", "serve", "--port=8080", "--host=0.0.0.0", "--task=fill-mask", "--model=bert-base-uncased"]
+ENTRYPOINT ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]

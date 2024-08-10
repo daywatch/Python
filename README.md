@@ -54,6 +54,9 @@
 ### Part 18 [Text Summarizer dev](https://github.com/daywatch/Python/tree/main/text_summarizer_dev)
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
+### Part 19[**Containers**](https://github.com/daywatch/Python/tree/main/P19_docker_and_kubernetes)
+- my dev code on docker and kubernetes
+
 <br>
 
 ## Other Python skills

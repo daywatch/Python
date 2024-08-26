@@ -57,6 +57,9 @@
 ### Part 19 [**Containers**](https://github.com/daywatch/Python/tree/main/P19_docker_and_kubernetes)
 - my dev code on docker and kubernetes
 
+### Part 20 [**Acoustic feature extraction**](https://github.com/daywatch/Python/tree/main/P20_common_acoustic_features/ipynb)
+- Feature extraction of some common speech features like intensity, MFCC. center of gravity, skewness, HNR, jitter & shimmer
+
 <br>
 
 ## Other Python skills

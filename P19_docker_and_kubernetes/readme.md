@@ -8,4 +8,6 @@
 
 <br>
 
-## Kubernetes process sample (coming soon)
+## Kubernetes process sample
+* I provided a yaml template of a replicaset for the same docker container, which can be used for scaled up production
+* Also I included study notes on Kubernetes, including basics (pods, deployments, RS and RC, services) and cloud adaptations, see [here](https://docs.google.com/document/d/1PUr68kKitIOHTpxrclEiyfXixcb6UkvMbwZH4hF5W7E/edit?usp=sharing)

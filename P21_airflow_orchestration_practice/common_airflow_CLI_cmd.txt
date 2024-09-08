@@ -1,0 +1,58 @@
+airflow cheat-sheet
+
+1.initialize the airflow CLI
+docker ps
+docker exec -it airflow_ID bash
+
+2.check if a file exists
+shasum FILENAME
+
+3.exit
+exit
+
+4.switch to mySQL
+docker exec -it mysql_ID bash
+mysql -u USERNAME
+password
+show databases
+use mysql
+(use SQL after mysql>)
+
+5.list dags
+airflow list_dags
+
+6.initialize the metadta databases
+airflow initdb
+
+7.start an instance of websever
+airflow webserver
+
+8.start a scheduling instance
+airflow scheduler
+
+9.list all connections
+airflow connections -l
+help
+airflow connections -h
+
+10.list tasks
+airflow list_tasks DAGNAME
+
+11.list dag runs for a DAGNAME
+airflow list_dag_runs DAGNAME
+
+12.tigger a dag
+airflow trigger_dag DAGNAME
+
+13.(un)pause a dag 
+airflow pause DAGNAME 
+
+14.run test without dependencies
+airflow test DAGNAME TASKNAME DATE
+DATE is like 2020-10-27
+
+15.get the time for the next execusion event
+airflow next_execusion DAGNAME
+
+16.delete all records form a dag
+airflow delete_dag DAGNAME

@@ -60,6 +60,9 @@
 ### Part 20 [**Acoustic feature extraction**](https://github.com/daywatch/Python/blob/main/P20_common_acoustic_features.ipynb)
 - Feature extraction of some common speech features like intensity, MFCC. center of gravity, skewness, HNR, jitter & shimmer
 
+### Part 21 [**Data ETL with Apache Airflow**](https://github.com/daywatch/Python/tree/main/P21_airflow_orchestration_practice)
+- This folder contains airflow CLI notes, a demo case of a SQL-based ETL pipeline, and a demo of a customized pipeline directed acyclic graph (DAG) plugin
+
 <br>
 
 ## Other Python skills

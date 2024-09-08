@@ -1,0 +1,13 @@
+Airflow process:read a csv and save the cleaned data into MySQL
+
+1.add mySQL, mySQL as depend_on (web server), gmail credentials environment(web server), and paths on the volumns (webserver); docker-compose the renewed yaml
+2.add some tasks on creating, reading, and filtering SQL tables 
+3.in the dag folder, there are orchestratian codes that pipline the process as below:
+
+DAG flow overview:
+
+t1 (check if the csv metadata exists) >> t2(python - clean csv) >> t3(SQL-create) >> t4(SQL-insert) >> t5(SQL-select) >> [t6 (moving file1),t7 (moving file2)] >> t8(email automation) >> t9(rename the csv.files)
+
+"python - clean csv" is a collection of functions in datacleaner.py
+
+4.create a connection on the admin tab of airflow for mySQL

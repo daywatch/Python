@@ -54,13 +54,10 @@
 ### Part 18 [Text Summarizer dev](https://github.com/daywatch/Python/tree/main/text_summarizer_dev)
 - My dev directory on text summarizers, including frequency-based extractive models, transformer with BERT embedding, and BART
 
-### Part 19 [**Containers**](https://github.com/daywatch/Python/tree/main/P19_docker_and_kubernetes)
-- my dev code on docker and kubernetes
-
-### Part 20 [**Acoustic feature extraction**](https://github.com/daywatch/Python/blob/main/P20_common_acoustic_features.ipynb)
+### Part 19 [**Acoustic feature extraction**](https://github.com/daywatch/Python/blob/main/P19_common_acoustic_features.ipynb)
 - Feature extraction of some common speech features like intensity, MFCC. center of gravity, skewness, HNR, jitter & shimmer
 
-### Part 21 [**Data ETL with Apache Airflow**](https://github.com/daywatch/Python/tree/main/P21_airflow_orchestration_practice)
+### Part 20 [**Data ETL with Apache Airflow**](https://github.com/daywatch/Python/tree/main/P20_airflow_orchestration_practice)
 - This folder contains airflow CLI notes, a demo case of a SQL-based ETL pipeline, and a demo of a customized pipeline directed acyclic graph (DAG) plugin
 
 <br>
